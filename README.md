@@ -10,8 +10,8 @@ Pour des raisons de license, je ne suis pas autorisé à vous proposer un instal
 
 Vous pouvez néanmoins fabriquer un installeur facilement, en suivant ces étapes :
 
-* téléchargez et installez NSIS 3 (vérifié vec la version 3.05). [Vous le trouverez ici](https://nsis.sourceforge.io/Download)
-* [Téléchargez Captvty](http://captvty.fr) (archive ZIP)
+* téléchargez et installez NSIS 3 (vérifié avec la version 3.05). [Vous le trouverez ici](https://nsis.sourceforge.io/Download)
+* [téléchargez Captvty](http://captvty.fr) (archive ZIP)
 * décompressez Captvty (par exemple avec [7-Zip](https://www.7-zip.org/)), de préférence dans un dossier :
 * copiez `Captvty.nsi` dans le dossier où vous avez décompressé Captvty
 * clic-droit sur `Captvty.nsi` et choisissez `Compile NSIS Script`
