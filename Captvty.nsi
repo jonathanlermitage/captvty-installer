@@ -22,7 +22,7 @@ Section "install"
     WriteRegStr HKLM "Software\Captvty" "Install_Dir" "$\"$INSTDIR\uninstall.exe$\""
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "DisplayName" "Captvty"
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "UninstallString" "$\"$INSTDIR\uninstall.exe$\""
-    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "Publisher" "Guillaume"
+    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "Publisher" "JonathanLermitage"
     WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "NoModify" 1
     WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "NoRepair" 1
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Captvty" "QuietUninstallString" "$\"$INSTDIR\uninstall.exe$\" /S"
